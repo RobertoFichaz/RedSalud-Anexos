@@ -1,0 +1,33 @@
+pisos
+1 sí, coinsidera que entre pestañas esta cargando.
+2 sí, los datos son reales. (integrar econografia relacionada en la clinica)
+3 sí, el usuario tiene control de la pestaña.
+4 no, no tiene modas -> 
+5 no, no tiene validadores -> proponer verificadores de los pisos que esten en uso o que esten con poblemas de personal (Modals)
+6 no la considera, ya que es semi estatica
+7 sí, la tiene en cuenta.
+8 sí, sí lo tiene
+9 no, no lo considera -> proponer un modals de ayuda abajo a la derecha para consultas (llenar formulario de consultas)
+10 no, no la considera -> proponer documentacion de como se utiliza la plataforma o pestaña para el usuario
+box's
+1 sí, coinsidera que entre pestañas esta cargando.
+2 sí, los datos son reales.
+3 sí, el usuario tiene control de la pestaña.
+4 no, no tiene modas
+5 no, no tiene validadores
+6 no la considera, ya que es semi estatica
+7 sí, la tiene en cuenta.
+8 sí, sí lo tiene
+9 no, no lo considera -> proponer un modals de ayuda abajo a la derecha para consultas
+10 no, no la considera -> porponer documentacion de como se utiliza la plataforma o pestaña para el usuario
+doctores
+1 no, aun no la considera
+2 sí, los datos son reales
+3 sí el usuario tiene libertad de uso de pestaña 
+4 no, no tiene mododals -> proponer una advertencia de modificacion de los horarios para cada doctor.
+5 no tiene validadores. -> proponer un validador de horarios sobre el box y el doctor disponible 
+6 no la tiene encuenta. -> proponer un metodo el cual libere imagenes que no esten siendo mostradas en la pestaña o que cada vez que el usuario navege entre pestañas la pestaña que o este en uso este se libere o borre.
+7 no, ya que esta "revisando" constantemente, no es eficiente
+8 sí, sí lo es 
+9 no, no lo tiene encuenta. -> proponer un modals de ayuda abajo a la derecha para consultas a los doctores
+10 no, no lo tiene encuenta.-> porponer documentacion de como se utiliza la plataforma o pestaña para el usuario doctor
